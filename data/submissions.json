@@ -1,0 +1,105 @@
+[
+  {
+    "id": "SUB-001",
+    "broker_email": "jsmith@brokerco.com",
+    "business_name": "Acme Manufacturing LLC",
+    "business_name_alt": null,
+    "coverage_type": "General Liability",
+    "annual_revenue": "$2,500,000",
+    "employee_count": "45",
+    "effective_date": "2026-01-15",
+    "expiration_date": "2027-01-15",
+    "prior_losses": [
+      {"year": 2024, "amount": "$12,000", "description": "Slip and fall"},
+      {"year": 2025, "amount": "$0", "description": null}
+    ],
+    "naics_code": "332710",
+    "state": "NY",
+    "status": "pending"
+  },
+  {
+    "id": "SUB-002",
+    "broker_email": "mary.jones@insure-partners.com",
+    "business_name": "  Best Pizza Inc. ",
+    "business_name_alt": "Best Pizza",
+    "coverage_type": "general liability",
+    "annual_revenue": "800000",
+    "employee_count": "12",
+    "effective_date": "03/01/2026",
+    "expiration_date": "03/01/2027",
+    "prior_losses": [],
+    "naics_code": "722511",
+    "state": "ca",
+    "status": "PENDING"
+  },
+  {
+    "id": "SUB-003",
+    "broker_email": "TLEE@BROKERCO.COM",
+    "business_name": "GreenTech Solutions",
+    "business_name_alt": "GreenTech Sol.",
+    "coverage_type": "Professional Liability",
+    "annual_revenue": "$15,000,000.00",
+    "employee_count": "210",
+    "effective_date": "2026-06-01",
+    "expiration_date": "2027-06-01",
+    "prior_losses": [
+      {"year": 2023, "amount": "$150,000", "description": "Data breach claim"},
+      {"year": 2024, "amount": "$75,000.00", "description": "E&O claim - project delay"},
+      {"year": 2025, "amount": "$0", "description": ""}
+    ],
+    "naics_code": "541512",
+    "state": "TX",
+    "status": "pending"
+  },
+  {
+    "id": "SUB-004",
+    "broker_email": "",
+    "business_name": "Harbor Construction Co",
+    "business_name_alt": null,
+    "coverage_type": "Workers Compensation",
+    "annual_revenue": "N/A",
+    "employee_count": "87",
+    "effective_date": "2026-04-01",
+    "expiration_date": "2027-04-01",
+    "prior_losses": [
+      {"year": 2024, "amount": "$45,000", "description": "On-site injury"},
+      {"year": 2024, "amount": "$22,500", "description": "Equipment accident"},
+      {"year": 2025, "amount": "$8,000", "description": "Minor injury claim"}
+    ],
+    "naics_code": "236220",
+    "state": "FL",
+    "status": "review"
+  },
+  {
+    "id": "SUB-005",
+    "broker_email": "duplicatebroker@test.com",
+    "business_name": "Acme Manufacturing LLC",
+    "business_name_alt": "ACME MFG LLC",
+    "coverage_type": "General Liability",
+    "annual_revenue": "$2,500,000",
+    "employee_count": "45",
+    "effective_date": "2026-01-15",
+    "expiration_date": "2027-01-15",
+    "prior_losses": [
+      {"year": 2024, "amount": "$12,000", "description": "Slip and fall"}
+    ],
+    "naics_code": "332710",
+    "state": "NY",
+    "status": "pending"
+  },
+  {
+    "id": null,
+    "broker_email": "incomplete@broker.com",
+    "business_name": "",
+    "business_name_alt": null,
+    "coverage_type": "Property",
+    "annual_revenue": null,
+    "employee_count": null,
+    "effective_date": "2026-08-01",
+    "expiration_date": null,
+    "prior_losses": null,
+    "naics_code": "",
+    "state": "",
+    "status": "pending"
+  }
+]
